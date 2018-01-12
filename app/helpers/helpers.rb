@@ -1,2 +1,2 @@
-class Helpers
+class Helpers < User
 end
